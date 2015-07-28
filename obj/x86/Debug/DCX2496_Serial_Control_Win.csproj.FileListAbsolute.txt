@@ -1,0 +1,8 @@
+J:\Patrick\Projekte\DCX2496_Serial_Control_Win\obj\x86\Debug\DCX2496_Serial_Control_Win.csprojResolveAssemblyReference.cache
+J:\Patrick\Projekte\DCX2496_Serial_Control_Win\obj\x86\Debug\DCX2496_Serial_Control_Win.MainForm.resources
+J:\Patrick\Projekte\DCX2496_Serial_Control_Win\obj\x86\Debug\DCX2496_Serial_Control_Win.csproj.GenerateResource.Cache
+J:\Patrick\Projekte\DCX2496_Serial_Control_Win\bin\Debug\DCX2496_Serial_Control_Win.exe.config
+J:\Patrick\Projekte\DCX2496_Serial_Control_Win\bin\Debug\DCX2496_Serial_Control_Win.exe
+J:\Patrick\Projekte\DCX2496_Serial_Control_Win\bin\Debug\DCX2496_Serial_Control_Win.pdb
+J:\Patrick\Projekte\DCX2496_Serial_Control_Win\obj\x86\Debug\DCX2496_Serial_Control_Win.exe
+J:\Patrick\Projekte\DCX2496_Serial_Control_Win\obj\x86\Debug\DCX2496_Serial_Control_Win.pdb
